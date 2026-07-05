@@ -1,2 +1,4 @@
 anaconda_projects/
 anaconda_projects/db
+notebooks/anaconda_projects/
+notebooks/.ipynb_checkpoints/

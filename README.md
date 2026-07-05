@@ -33,8 +33,8 @@ ecommerce-sales-analysis/
 ├── dashboard/
 │   ├── E-sales-analysis.pbix
 │   └── dashboard_screenshot.png
-└── README.md
-├── .gitignore
+├── README.md
+└── .gitignore
 ```
 
 ## Part 1 — Python Data Cleaning

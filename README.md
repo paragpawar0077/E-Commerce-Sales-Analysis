@@ -10,7 +10,7 @@ intelligence dashboard.
 - **Python** — Data loading, cleaning, EDA, feature engineering
 - **PostgreSQL** — Multi-table database setup, 10 analytical SQL queries
 - **Power BI** — Interactive dashboard connected directly to PostgreSQL
-- **Libraries** — Pandas, NumPy, Matplotlib
+- **Libraries** — Pandas, NumPy,os
 
 ## Dataset
 - **Source:** Brazilian E-Commerce Public Dataset by Olist (Kaggle)
